@@ -3,7 +3,7 @@
 *DRAFT*
 
 It sounds to good to be true ? Actually it is possible.
-We at Kazoup decided to pay you to develop and we will give it back to community.
+We at [Kazoup](http://www.kazoup.com) decided to pay you to develop and we will give it back to community.
 
 ## Why ?
 
