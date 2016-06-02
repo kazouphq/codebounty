@@ -44,10 +44,12 @@ Each of the services has defined API interface and your job if you willing to ta
 Feel free to fork and create pull requests once the pull request is accepted we will pay for winning code:
 
 Code scoring:
-- Does it run ? ;)
-- Test Coverage
-- Go Score Card
-- Quality
+- Does it run ? ;) https://circleci.com
+- Test Coverage https://coveralls.io
+- Benchmarks Results -> is there online service for this ?
+- Go Report https://goreportcard.com
+- Quality - https://golang.org/doc/effective_go.html
+
 
 ## Getting pay
 
